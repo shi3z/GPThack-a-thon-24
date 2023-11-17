@@ -55,7 +55,7 @@ def generate(text):
         print(scene)
         scene=scene[:scene.find(f"シーン{i+2}")]
         print(scene)
-        context=f"{context}\n{prompt}{scene}\n"
+        context=f"{prompt}{scene}\n"
         imgprompt=gpt(f"以下の場面を表現するDALL-E用プロンプトを書け\n{scene}")
         while True:
             img=None
