@@ -4,6 +4,7 @@ fortune.py   写真とプロフィールから20年後の未来を予想
 
 ![](fortune.png)
 
+
 manga.py　一行のあらすじから漫画を生成
 
 ![](manga.png)
