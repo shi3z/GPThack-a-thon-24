@@ -2,7 +2,7 @@
 
 ## murder.py AIマーダーミステリー　新畑豪三郎
 
-![](title.jpg)
+![](title.png)
 
 ## fortune.py   写真とプロフィールから20年後の未来を予想
 
